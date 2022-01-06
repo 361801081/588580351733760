@@ -1,10 +1,10 @@
 {
   "tenantId" : "578069167910912",
   "appCode" : "588580351733760",
-  "appVersion" : "v1.0",
+  "appVersion" : "v1222",
   "envCode" : "1212222",
   "gitRemoteUrl" : "https://github.com/361801081/588580351733760.git",
   "gitBranchName" : "588580351733760-1212222",
-  "schemeCode" : "DS_1479037773049708546",
-  "schemeInstanceCode" : "ins_1479037773066485762"
+  "schemeCode" : "DS_1479042973793730561",
+  "schemeInstanceCode" : "ins_1479042973806313473"
 }
