@@ -1,0 +1,21 @@
+{
+  "tMenuOrgConditions" : [ ],
+  "tProductImages" : [ ],
+  "tAuthTypes" : [ ],
+  "tProductMetaExtendDicts" : [ ],
+  "tMenuAuths" : [ ],
+  "tPageAuths" : [ ],
+  "tSysRoleAuthorities" : [ ],
+  "tSubSystems" : [ ],
+  "tSysRoles" : [ ],
+  "tPageBizScopes" : [ ],
+  "tProducts" : [ ],
+  "tProductMetaExtends" : [ ],
+  "tPageCategories" : [ ],
+  "tMenuOrgScopes" : [ ],
+  "tPages" : [ ],
+  "tSubSystemVersions" : [ ],
+  "tAuthorities" : [ ],
+  "tMenuParams" : [ ],
+  "tMenus" : [ ]
+}
